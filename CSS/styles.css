@@ -4,6 +4,10 @@ body {
 }
 /* Note: If the font name is more than one word, it must be in quotation marks, like: "Times New Roman". W3 */
 
+#recipes-list {
+    font-size: 25px;
+}
+
 h1 {
     text-align: center;
     font-family: Georgia, Garamond, serif;
